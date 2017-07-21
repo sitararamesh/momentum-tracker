@@ -1,0 +1,29 @@
+html {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+}
+
+h1, h3 {
+	font-family: 'Monaco', monospace;
+
+}
+input, option {
+	font-family: 'Roboto', sans-serif;
+}
+fieldset {
+	border: none;
+}
+
+input, select {
+	margin-top: 3%;
+	margin-right: 3%;
+
+}
+
+h1,h3, p, input {
+	margin-left: 3%;
+}
+
+input {
+	font-size: 1.2em;
+}
